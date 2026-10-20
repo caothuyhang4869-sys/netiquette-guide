@@ -1,4 +1,4 @@
-# QUY TẮC ỨNG XỬ VĂN MINH TRÊN GITHUB
+# QUY TẮC ỨNG XỬ VĂN MINH 
 
 ## 1. Mục đích
 
