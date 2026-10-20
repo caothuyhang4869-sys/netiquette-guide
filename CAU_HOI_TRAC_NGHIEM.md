@@ -2,7 +2,7 @@
 
 Bạn hãy nhấn vào đường link bên dưới để làm bài kiểm tra về Netiquette – Ứng xử văn minh trên GitHub.
 
-**[BẤM VÀO ĐÂY ĐỂ LÀM BÀI TRẮC NGHIỆM]: https://forms.gle/V9kypKfDsbPHQAX19**
+**[BẤM VÀO ĐÂY ĐỂ LÀM BÀI TRẮC NGHIỆM]: https://forms.gle/6aECozofh6yFbGxm7**
 
 - Số câu hỏi: 10 câu.
 - Hình thức: Trắc nghiệm 4 lựa chọn.
